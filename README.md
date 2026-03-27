@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prajwesh-walekar" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=prajwesh07&label=Profile%20views&color=blueviolet&style=for-the-badge" />
 </a>
 </p>
 
